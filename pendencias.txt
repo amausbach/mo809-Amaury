@@ -1,3 +1,4 @@
-1. criar amaury.bib em Bibliografia e preenche-lo com os bibtex dos textos
-utilizados/estudados para os seminários.
-2. renomear os pdfs da forma recomendada: <sobrenome-primeiro-autor><ano>.pdf
+1. siga as regras do arquivo gitRepoStructure.txt para adequar a estrutura de diretórios do seu repo de MO809.
+2. siga as regras do arquivo bibRules.txt para ajustar a sua Bibliografia.
+
+
