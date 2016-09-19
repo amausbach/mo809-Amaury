@@ -1,0 +1,260 @@
+@article{atzori2010internet,
+  title={The internet of things: A survey},
+  author={Atzori, Luigi and Iera, Antonio and Morabito, Giacomo},
+  journal={Computer networks},
+  volume={54},
+  number={15},
+  pages={2787--2805},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{al2015internet,
+  title={Internet of things: A survey on enabling technologies, protocols, and applications},
+  author={Al-Fuqaha, Ala and Guizani, Mohsen and Mohammadi, Mehdi and Aledhari, Mohammed and Ayyash, Moussa},
+  journal={IEEE Communications Surveys \& Tutorials},
+  volume={17},
+  number={4},
+  pages={2347--2376},
+  year={2015},
+  publisher={IEEE}
+}
+
+@article{perera2014survey,
+  title={A survey on internet of things from industrial market perspective},
+  author={Perera, Charith and Liu, Chi Harold and Jayawardena, Srimal and Chen, Min},
+  journal={IEEE Access},
+  volume={2},
+  pages={1660--1679},
+  year={2014},
+  publisher={IEEE}
+}
+
+@inproceedings{derhamy2015survey,
+  title={A survey of commercial frameworks for the internet of things},
+  author={Derhamy, Hasan and Eliasson, Jens and Delsing, Jerker and Priller, Peter},
+  booktitle={2015 IEEE 20th Conference on Emerging Technologies \& Factory Automation (ETFA)},
+  pages={1--8},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{perera2015emerging,
+  title={The emerging internet of things marketplace from an industrial perspective: A survey},
+  author={Perera, Charith and Liu, Chi Harold and Jayawardena, Srimal},
+  journal={IEEE Transactions on Emerging Topics in Computing},
+  volume={3},
+  number={4},
+  pages={585--598},
+  year={2015},
+  publisher={IEEE}
+}
+
+@article{fremantle2015security,
+  title={A security survey of middleware for the Internet of Things},
+  author={Fremantle, Paul and Scott, Philip},
+  journal={PeerJ PrePrints},
+  volume={3},
+  pages={e1521},
+  year={2015},
+  publisher={PeerJ Inc. San Francisco, USA}
+}
+
+@article{gaitan2015survey,
+  title={A Survey on the Internet of Things Software Arhitecture},
+  author={Gaitan, Nicoleta-Cristina and Gaitan, Vasile Gheorghita and Ungurean, Ioan},
+  journal={INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS},
+  volume={6},
+  number={12},
+  pages={140--143},
+  year={2015},
+  publisher={SCIENCE \& INFORMATION SAI ORGANIZATION LTD 183-02 HILL SIDE AVE, JAMAICA, NY 11423 USA}
+}
+
+@article{islam2015internet,
+  title={The internet of things for health care: a comprehensive survey},
+  author={Islam, SM Riazul and Kwak, Daehan and Kabir, MD Humaun and Hossain, Mahmud and Kwak, Kyung-Sup},
+  journal={IEEE Access},
+  volume={3},
+  pages={678--708},
+  year={2015},
+  publisher={IEEE}
+}
+
+@article{kim2016developing,
+  title={Developing an On-Demand Cloud-Based Sensing-as-a-Service System for Internet of Things},
+  author={Kim, Mihui and Asthana, Mihir and Bhargava, Siddhartha and Iyyer, Kartik Krishnan and Tangadpalliwar, Rohan and Gao, Jerry},
+  journal={Journal of Computer Networks and Communications},
+  volume={2016},
+  year={2016},
+  publisher={Hindawi Publishing Corporation}
+}
+
+@inproceedings{hiremath2014wearable,
+  title={Wearable Internet of Things: Concept, architectural components and promises for person-centered healthcare},
+  author={Hiremath, Shivayogi and Yang, Geng and Mankodiya, Kunal},
+  booktitle={Wireless Mobile Communication and Healthcare (Mobihealth), 2014 EAI 4th International Conference on},
+  pages={304--307},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{hu2015system,
+  title={A System Architecture for Software-Defined Industrial Internet of Things},
+  author={Hu, Peng},
+  booktitle={2015 IEEE International Conference on Ubiquitous Wireless Broadband (ICUWB)},
+  pages={1--5},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{da2014internet,
+  title={Internet of things in industries: A survey},
+  author={Da Xu, Li and He, Wu and Li, Shancang},
+  journal={IEEE Transactions on Industrial Informatics},
+  volume={10},
+  number={4},
+  pages={2233--2243},
+  year={2014},
+  publisher={IEEE}
+}
+
+@article{razzaque2016middleware,
+  title={Middleware for internet of things: a survey},
+  author={Razzaque, Mohammad Abdur and Milojevic-Jevric, Marija and Palade, Andrei and Clarke, Siobh{\'a}n},
+  journal={IEEE Internet of Things Journal},
+  volume={3},
+  number={1},
+  pages={70--95},
+  year={2016},
+  publisher={IEEE}
+}
+
+@inproceedings{tabish2013comparative,
+  title={A comparative analysis of BLE and 6LoWPAN for U-HealthCare applications},
+  author={Tabish, Rohan and Mnaouer, Adel Ben and Touati, Farid and Ghaleb, Abdulaziz M},
+  booktitle={GCC Conference and Exhibition (GCC), 2013 7th IEEE},
+  pages={286--291},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{nair2015optimizing,
+  title={Optimizing power consumption in iot based wireless sensor networks using Bluetooth Low Energy},
+  author={Nair, Karan and Kulkarni, Janhavi and Warde, Mansi and Dave, Zalak and Rawalgaonkar, Vedashree and Gore, Ganesh and Joshi, Jonathan},
+  booktitle={Green Computing and Internet of Things (ICGCIoT), 2015 International Conference on},
+  pages={589--593},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{ray2014home,
+  title={Home Health Hub Internet of Things (H 3 IoT): An architectural framework for monitoring health of elderly people},
+  author={Ray, Partha P},
+  booktitle={Science Engineering and Management Research (ICSEMR), 2014 International Conference on},
+  pages={1--3},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{latre2011survey,
+  title={A survey on wireless body area networks},
+  author={Latr{\'e}, Beno{\^\i}t and Braem, Bart and Moerman, Ingrid and Blondia, Chris and Demeester, Piet},
+  journal={Wireless Networks},
+  volume={17},
+  number={1},
+  pages={1--18},
+  year={2011},
+  publisher={Springer-Verlag New York, Inc.}
+}
+
+@article{yoon20146lo,
+  title={6Lo Bluetooth Low Energy for Patient-Centric Healthcare Service on the Internet of Things},
+  author={Yoon, Wondeuk and Ha, Minkeun and Kwon, Kiwoong and Kim, Daeyoung},
+  journal={IEEE Internet of Things},
+  year={2014}
+}
+
+@article{huo2014middleware,
+  title={Middleware for IoT-cloud integration across application domains},
+  author={Huo, Chengjia and Chien, Ting-Chou and Chou, Pai H},
+  journal={IEEE Design and Test},
+  volume={31},
+  number={3},
+  year={2014}
+}
+
+@inproceedings{puranik2015smart,
+  title={Smart and Secure Monitoring of Industrial Environments using IoT},
+  author={Puranik, Shruthi and Mohan, Jayashree and Chandrasekaran, K},
+  booktitle={Proceedings of the Third International Symposium on Women in Computing and Informatics},
+  pages={644--649},
+  year={2015},
+  organization={ACM}
+}
+
+@article{hossain2016cloud,
+  title={Cloud-assisted industrial internet of things (iiot)--enabled framework for health monitoring},
+  author={Hossain, M Shamim and Muhammad, Ghulam},
+  journal={Computer Networks},
+  volume={101},
+  pages={192--202},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{diaz2016state,
+  title={State-of-the-art, challenges, and open issues in the integration of internet of things and cloud computing},
+  author={D{\'\i}az, Manuel and Mart{\'\i}n, Cristian and Rubio, Bartolom{\'e}},
+  journal={Journal of Network and Computer Applications},
+  volume={67},
+  pages={99--117},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{yoon2016smart,
+  title={Smart Factory Information Service Bus (SIBUS) for manufacturing application: requirement, architecture and implementation},
+  author={Yoon, SooCheol and Um, Jumyung and Suh, Suk-Hwan and Stroud, Ian and Yoon, Joo-Sung},
+  journal={Journal of Intelligent Manufacturing},
+  pages={1--20},
+  year={2016},
+  publisher={Springer}
+}
+
+@article{karakostas2013dns,
+  title={A DNS architecture for the internet of things: A case study in transport logistics},
+  author={Karakostas, Bill},
+  journal={Procedia Computer Science},
+  volume={19},
+  pages={594--601},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{cirani2014scalable,
+  title={A scalable and self-configuring architecture for service discovery in the internet of things},
+  author={Cirani, Simone and Davoli, Luca and Ferrari, Gianluigi and L{\'e}one, R{\'e}my and Medagliani, Paolo and Picone, Marco and Veltri, Luca},
+  journal={IEEE Internet of Things Journal},
+  volume={1},
+  number={5},
+  pages={508--521},
+  year={2014},
+  publisher={Ieee}
+}
+
+@article{standardgs1,
+  title={GS1 Object Name Service (ONS)},
+  author={Standard, Ratified}
+}
+
+
+
+
+
+
+
+
+
+
+
