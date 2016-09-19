@@ -1,0 +1,3 @@
+1. criar amaury.bib em Bibliografia e preenche-lo com os bibtex dos textos
+utilizados/estudados para os seminários.
+2. renomear os pdfs da forma recomendada: <sobrenome-primeiro-autor><ano>.pdf
